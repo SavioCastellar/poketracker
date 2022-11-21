@@ -1,5 +1,8 @@
-npm instal --global gulp-cli
-npm install --global yarn
-yarn init
-yarn add gulp
-gulp
+Running page
+``` Ruby
+> npm instal --global gulp-cli <br>
+> npm install --global yarn <br>
+> yarn init <br>
+> yarn add gulp <br>
+> gulp <br>
+```
